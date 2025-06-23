@@ -9,7 +9,7 @@ AVG Antivirus is one of the most popular antivirus solutions available today. It
 
 In this document, we'll explore the various support options available for AVG Antivirus users, including troubleshooting methods, contacting customer support, and how to make the most of available resources.
 
-.. image:: support.gif
+.. image:: click-here.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
